@@ -5,4 +5,4 @@ Básico em python
 - [02 - Sintaxe](src/02-syntax.py)
 - [03 - Variáveis](src/03-variables.py)
 - [04 - String](src/04-strings.py)
-- [05 - DataTypes](src/05-datatypes.py)
+- [05 - Tipos de dados](src/05-datatypes.py)
