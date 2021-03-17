@@ -2,3 +2,4 @@
 Básico em python
 
 - [01 - print("Hello World")](src/01-print.py)
+- [02 - Syntax](src/02-syntax.py)
