@@ -25,10 +25,8 @@ helloTemplate = Template("Hello World, $lang")
 hello = helloTemplate.substitute(lang="Python")
 print(hello)
 
-
-base = "Teste"
-
 # length
+base = "Teste"
 print(len(base))
 
 # split
