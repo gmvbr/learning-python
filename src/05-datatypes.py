@@ -1,0 +1,15 @@
+var = "Olá mundo"                     # str 
+var = 2021                            # int
+var = 17.03                           # float
+var = 20 + 21j                        # complex
+var = ["Mesa", "Cadeira", "Monitor"]  # list
+var = ("Mesa", "Cadeira", "Monitor")  # tuple
+var = range(20, 25)                   # range
+var = { "nome": "Bala", "preco": 1.5} # dict 
+var = {"Mesa", "Cadeira", "Monitor"}  # set
+var = frozenset({"Mesa", "Cadeira"})  # frozenset
+var = True                            # bool
+var = b"Olá mundo"                    # bytes
+var = bytearray(10)                   # bytearray
+var = bytearray('XYZ', 'utf-8')       # bytearray
+var = memoryview(bytes(5))            # memoryview
